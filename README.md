@@ -9,6 +9,7 @@ Every token starts in Eden: it launches on its own bonding curve, and when the c
 | | |
 |---|---|
 | [How Eden works](docs/how-eden-works.md) | Launches, the bonding curve, graduation, fees, launch protection, limits, launching from X, referrals |
+| [AI agents](docs/agents.md) | Skills for Claude, Codex, OpenClaw and any Agent Skills client; setup, safety, SDKs |
 | [API](docs/api.md) | The public API (no keys): tokens, quotes, building and sending transactions, charts, wallets, creators, live feed |
 | [Contracts and addresses](docs/contracts.md) | Every mainnet address, Uniswap v4 on Elysium, what the owner can and cannot do |
 | [Launch a token](docs/launch.md) | `launchToken` and `launchAndBuy` with viem |
