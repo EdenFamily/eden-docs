@@ -81,7 +81,7 @@ Wallets that join Eden through a referral link belong to the referrer, who earns
 
 ## Perps (coming)
 
-Tokens that keep trading after graduation are headed for perpetual markets. Part of Eden's fee on each token is saved in a perps fund, tracked per token; when the fund covers the listing cost, it goes toward listing that token with Eden's perps partner. Details are published before perps go live.
+Tokens that keep trading after graduation are headed for perpetual markets. Eden's share of each token's fees goes toward its perps listing. When the creator claims their fees, Eden's share drops by the same portion. Any token can still list. Details are published before perps go live.
 
 ## Risks
 
